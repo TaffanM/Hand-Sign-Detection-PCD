@@ -1,0 +1,1 @@
+cv2.imshow("Edge Detection", edges)
